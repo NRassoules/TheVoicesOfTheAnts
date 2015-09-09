@@ -143,9 +143,13 @@ a, a:visited, a:hover{
 	color: white;
 	text-decoration: none;
 }
-
-
-
+.brandText{
+	color: white;
+}
+.navbar-default{
+	background-color: transparent;
+	border-radius: 0;
+}
 
 
 

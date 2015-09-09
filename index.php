@@ -8,6 +8,7 @@
 	<body>
 		<section id="imgSection">
 			<section id="fillSection">
+				<?php include 'views/navbar.php';?>
 				<h1 class="bringToFront"><a href="http://www.thevoicesoftheants.com">Changing Currents</a></h1>
 				<div class="jumbotron" id="frontPage">
 					<div class="container" id="bar">
@@ -33,6 +34,9 @@
 							<div class="well currentsWell hvr-radial-out topicButton">
 								<h2>Photography</h2>
 							</div>
+							<div class="well currentsWell hvr-radial-out topicButton">
+								<h2>Fun Food</h2>
+							</div>
 						</div>
 					</div>
 					<h2 class="currentsText black trigger">Top Post Across All Topics:</h2>
@@ -43,7 +47,7 @@
 	<script type="text/Javascript">
 			$(document).ready(function(){
 				$(".bringToFront").hide().fadeIn(2000);
-				$(".bringToFront").animate({marginTop : "70px"} , 1000);
+				$(".bringToFront").animate({marginTop : "50px"} , 1000);
 
 				$(".trigger").click(function(){
 					$("#triggerHide").fadeOut(1000);
