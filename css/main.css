@@ -42,8 +42,58 @@ h1{
 	width: 80%;
 	margin: auto;
 	height: 75%;
-	border-radius: 50px;
+	border-radius: 5px;
 }
 .currentsText{
 	color: black;
 }
+#bar{
+	height: 30px;
+	position: absolute;
+	width:80%;
+	margin-top: -50px;
+	border-radius: 5px;
+	background-color: rgb(188,190,192);
+}
+#greenCircle{
+	position: absolute;
+	width: 17px;
+	height: 17px;
+	margin-top: 7px;
+	border-radius: 50%;
+	margin-left: 54px;
+	background-color: rgb(57,209,180);
+}
+#yellowCircle{
+	position: absolute;
+	width: 17px;
+	height: 17px;
+	margin-top: 7px;
+	border-radius: 50%;
+	margin-left: 27px;
+	background-color: rgb(255,247,153);
+}
+#redCircle{
+	position: absolute;
+	width: 17px;
+	height: 17px;
+	margin-top: 7px;
+	border-radius: 50%;
+	background-color: rgb(246,90,91);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -10,6 +10,11 @@
 			<section id="fillSection">
 				<h1 class="bringToFront">Changing Currents</h1>
 				<div class="jumbotron" id="frontPage">
+					<div class="container" id="bar">
+						<div id="redCircle"></div>
+						<div id="yellowCircle"></div>
+						<div id="greenCircle"></div>
+					</div>
 					<h2 class="currentsText">Topics</h2>
 				</div>
 			</section>
