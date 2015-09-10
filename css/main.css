@@ -131,11 +131,19 @@ h1{
 }
 .topicButton{
 	margin-left: 40px;
-	border-radius: 100%;
+	border-radius: 5%;
+	font-size: 20px;
+	margin-bottom: 5px;
+	width: 120px;
+}
+.topicButtonText{
+	font-size: 20px;
 }
 .topicButtonFirst{
 	margin-bottom: 5px;
-	border-radius: 100%;
+	border-radius: 5%;
+	font-size: 20px;
+	width: 120px;
 }
 .trigger:hover{
 	color: rgb(57,209,180);
@@ -144,15 +152,19 @@ a, a:visited, a:hover{
 	color: white;
 	text-decoration: none;
 }
-.brandText{
-	color: white;
-}
+
 .navbar-default{
 	background-color: transparent;
 	border-radius: 0;
+	color: white;
 }
-
-
+.navbar-text{
+	margin-right: 10px;
+	color: white;
+}
+.brandText{
+	color: white;
+}
 
 
 

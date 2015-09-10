@@ -20,22 +20,22 @@
 						<h2 class="currentsText">Topics</h2>
 						<div class="well currentsWell">
 							<div class="well currentsWell hvr-radial-out topicButtonFirst">
-								<h2>Fashion</h2>
+								<h2 class="topicButtonText">Fashion</h2>
 							</div> 
 							<div class="well currentsWell hvr-radial-out topicButton">
-								<h2>Hip Hop</h2>
+								<h2 class="topicButtonText">Hip Hop</h2>
 							</div>
 							<div class="well currentsWell hvr-radial-out topicButton">
-								<h2>Political</h2>
+								<h2 class="topicButtonText">Political</h2>
 							</div>
 							<div class="well currentsWell hvr-radial-out topicButton">
-								<h2>Ideas</h2>
+								<h2 class="topicButtonText">Ideas</h2>
 							</div>
 							<div class="well currentsWell hvr-radial-out topicButton">
-								<h2>Photography</h2>
+								<h2 class="topicButtonText">Photos</h2>
 							</div>
 							<div class="well currentsWell hvr-radial-out topicButton">
-								<h2>Fun Food</h2>
+								<h2 class="topicButtonText">Fun Food</h2>
 							</div>
 						</div>
 					</div>

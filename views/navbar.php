@@ -5,5 +5,6 @@
         <p class="brandText">The Voices of the Ants</p>
       </a>
     </div>
+    <p class="navbar-text navbar-right brandText" style="color:white;">Sign Up</p>
   </div>
 </nav>
