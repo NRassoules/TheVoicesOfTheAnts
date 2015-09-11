@@ -32,6 +32,16 @@ h1{
 	background-size: cover !important;
 	z-index: -1;
 }
+#imgSectionSignup{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	/*background-image: url("http://cdn.wonderfulengineering.com/wp-content/uploads/2015/04/new-york-wallpaper-22.jpg");*/
+	background-color: #E37B40;
+	background-position: center;
+	background-size: cover !important;
+	z-index: -1;
+}
 .bringToFront{
 	z-index: 10;
 	margin-top: 350px;
@@ -157,6 +167,7 @@ a, a:visited, a:hover{
 	background-color: transparent;
 	border-radius: 0;
 	color: white;
+	height: 70px;
 }
 .navbar-text{
 	margin-right: 10px;
@@ -164,10 +175,27 @@ a, a:visited, a:hover{
 }
 .brandText{
 	color: white;
+	font-size: 25px;
+	margin-top: 10px;
 }
-
-
-
+.signupJumbo{
+	margin-top: 100px;
+}
+.signUpWell{
+	width: 60%;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+.input-group{
+	margin-top: 20px;
+}
+.signUpButton{
+	background-color: transparent;
+	font-size: 30px;
+	border-radius: none;
+	border: 1px solid #DE5B49;
+	color: #DE5B49;
+}
 
 
 

@@ -23,19 +23,19 @@
 								<h2 class="topicButtonText">Fashion</h2>
 							</div> 
 							<div class="well currentsWell hvr-radial-out topicButton">
-								<h2 class="topicButtonText">Hip Hop</h2>
+								<h2 class="topicButtonText">Music</h2>
 							</div>
 							<div class="well currentsWell hvr-radial-out topicButton">
-								<h2 class="topicButtonText">Political</h2>
-							</div>
-							<div class="well currentsWell hvr-radial-out topicButton">
-								<h2 class="topicButtonText">Ideas</h2>
+								<h2 class="topicButtonText">Art</h2>
 							</div>
 							<div class="well currentsWell hvr-radial-out topicButton">
 								<h2 class="topicButtonText">Photos</h2>
 							</div>
 							<div class="well currentsWell hvr-radial-out topicButton">
-								<h2 class="topicButtonText">Fun Food</h2>
+								<h2 class="topicButtonText">Global</h2>
+							</div>
+							<div class="well currentsWell hvr-radial-out topicButton">
+								<h2 class="topicButtonText">Culinary</h2>
 							</div>
 						</div>
 					</div>
@@ -47,7 +47,7 @@
 	<script type="text/Javascript">
 			$(document).ready(function(){
 				$(".bringToFront").hide().fadeIn(2000);
-				$(".bringToFront").animate({marginTop : "50px"} , 1000);
+				$(".bringToFront").animate({marginTop : "120px"} , 1000);
 
 				$(".trigger").click(function(){
 					$("#triggerHide").fadeOut(1000);
